@@ -1,2 +1,3 @@
 # Code Along: Text Classification
-All Star Code SI 2022 - Custom Lesson
+
+Email Classifier: Classifies emails as either spam or OK
